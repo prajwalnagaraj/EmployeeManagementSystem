@@ -1,6 +1,8 @@
 package com.employeemanagementsystem.beans;
 
+//@entity
 public class employee {
+	// @Id
 	private int Id;
 	private String Name;
 	private String Contact;
